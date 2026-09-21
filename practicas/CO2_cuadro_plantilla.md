@@ -70,6 +70,7 @@ casilla del cuadro crees que va.
 | Diagramas de casos de uso | Unidad CO9, 3er trimestre |
 | Diagramas de secuencia, estados y actividades | Unidad CO9, 3er trimestre |
 | Analizador de código | Unidad CO8, 3er trimestre |
+|Docker| Unidad CO9, 3er trimestre|
 | Javadoc (documentación generada desde el código) | Unidad CO8, 3er trimestre |
 
 ---
