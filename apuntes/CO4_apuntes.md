@@ -427,7 +427,7 @@ confírmalo con el mensaje `Anotar el equipo del laboratorio`.
 4. Selecciona `aviso.md` y pulsa **Show Diff** (**Ctrl+D**). **Ves:** dos columnas, la
    versión confirmada a la izquierda y la tuya a la derecha.
 5. Marca **solo** la casilla de `aviso.md`, escribe el mensaje y pulsa **Commit**.
-6. Abre la ventana **Git** (**Alt+9**), pestaña **Log**. **Ves:** tu commit arriba, con
+6. Abre la ventana **Git** (**Alt+9** o **Alt + Shift+G**), pestaña **Log**. **Ves:** tu commit arriba, con
    el mismo mensaje que verías con `git log --oneline`.
 
 La casilla de IntelliJ hace lo mismo que elegir qué ficheros van en el `git add`.
